@@ -108,7 +108,7 @@
     "redux-thunk": "^2.0.1",
     "rimraf": "^2.6.1",
     "sequelize": "^3.30.4",
-    "sequelize-cli": "^2.7.0",
+    "sequelize-cli": "^6.5.2",
     "socket.io": "^2.0.3",
     "socket.io-client": "^2.0.3",
     "spark-md5": "^3.0.0",
